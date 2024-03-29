@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTful_Web_API", "RESTful_Web_API\RESTful_Web_API.csproj", "{9B445AB8-674C-4DDB-878E-E125B0C27E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B445AB8-674C-4DDB-878E-E125B0C27E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B445AB8-674C-4DDB-878E-E125B0C27E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B445AB8-674C-4DDB-878E-E125B0C27E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B445AB8-674C-4DDB-878E-E125B0C27E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3D65C9-F0BF-4C43-A7CE-8CD50B376854}
+	EndGlobalSection
+EndGlobal
